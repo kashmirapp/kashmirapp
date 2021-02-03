@@ -1,4 +1,13 @@
 ### Hi there 👋
+![image title](https://rushter.com/counter.svg)
+
+"I am working as a Software Engineer at a Start-up company in Downtown Toronto"
+
+### Currently learning :computer:
+
+var topics = ["AWS","Azure"]
+
+
 
 <!--
 **kashmirapp/kashmirapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
