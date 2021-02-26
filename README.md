@@ -9,7 +9,7 @@
 ### Currently learning
 
 ```
-var topics = ["AWS", "Azure"]
+var topics = ["AWS", "Flask", "ios development","kafka"]
 ```
 
 
